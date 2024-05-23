@@ -1,0 +1,32 @@
+{
+  "networks": [
+    {
+      "label": "Ethereum Sepolia",
+      "value": "ethereum-sepolia",
+      "icon": "https://raw.githubusercontent.com/mesquitaoliveira/blockchain_icons/master/networks/ethereum.svg",
+      "chainId": 11155111,
+      "explorerUrl": "https://sepolia.etherscan.io/"
+    },
+    {
+      "label": "Base Sepolia",
+      "value": "base-sepolia",
+      "icon": "https://raw.githubusercontent.com/mesquitaoliveira/blockchain_icons/master/networks/base.svg",
+      "chainId": 84532,
+      "explorerUrl": "https://sepolia.basescan.org/"
+    },
+    {
+      "label": "Scroll Sepolia",
+      "value": "scroll-sepolia",
+      "icon": "https://raw.githubusercontent.com/mesquitaoliveira/blockchain_icons/master/networks/scroll.svg",
+      "chainId": 534351,
+      "explorerUrl": "https://sepolia.scrollscan.com/"
+    },
+    {
+      "label": "Linea Sepolia",
+      "value": "linea-sepolia",
+      "icon": "https://raw.githubusercontent.com/mesquitaoliveira/blockchain_icons/master/networks/linea.svg",
+      "chainId": 59141,
+      "explorerUrl": "https://sepolia.lineascan.build/"
+    }
+  ]
+}
