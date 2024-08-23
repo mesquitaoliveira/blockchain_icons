@@ -2,7 +2,7 @@
   "networks": [
     {
       "label": "Ethereum Sepolia",
-      "value": "ethereum-sepolia",
+      "value": "sepolia",
       "icon": "https://raw.githubusercontent.com/mesquitaoliveira/blockchain_icons/master/networks/ethereum.svg",
       "chainId": 11155111,
       "explorerUrl": "https://sepolia.etherscan.io"
